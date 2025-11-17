@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background: #f7f7f7;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td {
+    height: 60px;
+    border: 1px solid white;
+}
+
+.shade1  { background: hsl(210, 80%, 70%); }
+.shade2  { background: hsl(210, 80%, 65%); }
+.shade3  { background: hsl(210, 80%, 60%); }
+.shade4  { background: hsl(210, 80%, 55%); }
+.shade5  { background: hsl(210, 80%, 50%); }
+.shade6  { background: hsl(210, 80%, 45%); }
+.shade7  { background: hsl(210, 80%, 40%); }
+.shade8  { background: hsl(210, 80%, 35%); }
+.shade9  { background: hsl(210, 80%, 30%); }
+.shade10 { background: hsl(210, 80%, 25%); }
